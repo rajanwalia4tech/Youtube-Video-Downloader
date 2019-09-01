@@ -14,8 +14,8 @@ Features   :  1. User can download either audio or video format
 ----------------- How to use? -------------------
 
 1. User needs to install following python libraries
-    a) pip install youtube_dl
-    b) pip install ffmpeg
+    (a) pip install youtube_dl
+    (b) pip install ffmpeg
 
 2. Run the code in Python IDE
 
