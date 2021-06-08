@@ -2,9 +2,9 @@
 
 ## This is a GUI desktop application used to download youtube videos via link of video
 
-### Language used  :  Python
-### library used   :  1. tkinter for GUI(Graphical User Interface)
-###                   2. youtube_dl library to download youtube videos
+### Language used  : ####  Python
+### library used   : #### 1. tkinter for GUI(Graphical User Interface)
+###                  #### 2. youtube_dl library to download youtube videos
                   
 ### Features   :  1. User can download either audio or video format
 ###              2. Save in desired folder
