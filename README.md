@@ -13,7 +13,7 @@
 
 ### 1. User needs to install following python libraries
 ####    (a) pip install youtube_dl
-######    (b) pip install ffmpeg
+####    (b) pip install ffmpeg
 
 ### 2. Run the "Youtube Video Downloader.py" in Python IDE
 
